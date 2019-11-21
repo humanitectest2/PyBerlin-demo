@@ -1,1 +1,1 @@
-# Hello PyBerlin Meetup!
+# Text on Readme file
